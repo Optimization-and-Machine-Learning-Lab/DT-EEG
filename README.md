@@ -14,6 +14,7 @@ Original EEGNet Paper: [Source](https://arxiv.org/abs/1611.08024#:~:text=In%20th
 
 ## Dataset:
 - Motor imagery task: BCI Competition IV 2a available at [Source](https://www.bbci.de/competition/iv/)
+  - Upon downloading it, make sure to save it in the following path, "BCI Competition IV/Dataset2/2a/"
 - Loaded using: [Get_data](https://github.com/MultiScale-BCI/IV-2a/blob/master/get_data.py)
 
 

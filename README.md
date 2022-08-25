@@ -21,3 +21,9 @@ Original EEGNet Paper: [Source](https://arxiv.org/abs/1611.08024#:~:text=In%20th
 ## Usage:
 - EarlyStopping : [pytorchtools](https://github.com/Bjarten/early-stopping-pytorch/blob/master/pytorchtools.py)
 
+
+### Contact:
+- Shahd AlShamsi: shahd.alshamsi@mbzuai.ac.ae
+- Martin Tak\'a\v{c}: martin.takac@mbzuai.ac.ae
+- Abdulmotaleb El Saddik: a.elsaddik@mbzuai.ac.ae
+

@@ -17,5 +17,6 @@ Original EEGNet Paper: [Source](https://arxiv.org/abs/1611.08024#:~:text=In%20th
 - Loaded using: [Get_data](https://github.com/MultiScale-BCI/IV-2a/blob/master/get_data.py)
 
 
-EarlyStopping : [pytorchtools](https://github.com/Bjarten/early-stopping-pytorch/blob/master/pytorchtools.py)
+## Usage:
+- EarlyStopping : [pytorchtools](https://github.com/Bjarten/early-stopping-pytorch/blob/master/pytorchtools.py)
 

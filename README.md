@@ -24,6 +24,6 @@ Original EEGNet Paper: [Source](https://arxiv.org/abs/1611.08024#:~:text=In%20th
 
 ### Contact:
 - Shahd AlShamsi: shahd.alshamsi@mbzuai.ac.ae
-- Martin Tak\'a\v{c}: martin.takac@mbzuai.ac.ae
+- Martin Takáč: martin.takac@mbzuai.ac.ae
 - Abdulmotaleb El Saddik: a.elsaddik@mbzuai.ac.ae
 
